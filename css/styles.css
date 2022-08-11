@@ -1,0 +1,200 @@
+#title{
+
+  background-color: #ff4c68;
+  color:#fff;
+
+}
+
+/* ubuntu
+font-family: 'Fredoka One', cursive;
+font-family: 'Ubuntu', sans-serif; */
+
+.mainh1{
+  font-family: 'Fredoka One', cursive;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 4rem;
+  line-height: 1.5;
+  padding-top: 50px;
+}
+
+.container-fluid{
+  padding:3% 15%;
+}
+.buttonColour{
+  background-color: #ff4c68;
+}
+
+.iphoneDog{
+width:20rem;
+  transform: rotate(30deg);
+  margin-top: 50px;
+
+
+}
+
+/* Navication Bar */
+
+.navbar-brand{
+
+  font-size: 3rem;
+font-family: cursive;
+
+}
+
+
+.nav-item{
+padding:0 40px;
+}
+
+.navbar{
+  padding-bottom: 20px;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.download-button{
+  margin:3% 5% 10% 0;
+}
+
+
+
+/* features */
+
+#features{
+margin:10% 10% 10% 12%;
+text-align: center;
+
+}
+
+
+
+.feature-icon{
+color:#ef8172;
+  margin-left:15px;
+  margin-right:16px;
+
+}
+.feature-icon:hover{
+color: #ff4c68;
+}
+
+.feature-text{
+color:#8f8f8f;
+}
+
+
+
+/* Testimonials  */
+
+
+#testimonials{
+background-color:#ef8172;
+color:#fff;
+text-align: center;
+font-family: 'Montserrat', sans-serif;
+}
+
+.testimonials-image{
+  width:200px;
+  border-radius: 100%;
+  margin:80px 0 130px 0;
+}
+
+.testimonials-h2{
+font-size: 4rem;
+padding-top:2rem;
+}
+
+
+
+/* press */
+
+
+#press{
+  background-color:#ef8172;
+  text-align: center;
+
+}
+
+
+.press-logo{
+width:10rem;
+margin:0 10px 2rem 10px;
+}
+
+/* Pricing */
+
+#pricing{
+  text-align: center;
+  padding:100px;
+}
+
+
+.btn-price{
+  width:80%;
+}
+
+.card{
+  margin:50px 30px;
+}
+
+.pricing-h2-p{
+  font-family:'Fredoka One', cursive;
+}
+
+@media (max-width:1335px){
+
+.title{
+  text-align: center;
+}
+
+.iphoneDog{
+width:15rem;
+margin-left: 25px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.row{
+  text-align: center;
+}
+
+
+
+}
+
+
+/* cta */
+
+#cta{
+  background-color: #ff4c68;
+  height:11rem;
+  text-align: center;
+
+}
+
+.cta-h3{
+  color: white;
+  text-align: center;
+  padding-top:20px;
+
+}
+
+
+/* footer */
+
+
+#footer{
+  text-align: center;
+  margin-top:10px;
+  background-color: #fff;
+  height:10px;
+}
+.social-media{
+  margin-left: 20px;
+}
